@@ -21,7 +21,7 @@ In addition to my passion for coding, I'm also deeply fascinated by astronomy an
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbeTroll&layout=compact&theme=radical)
 
-![AlbeTroll's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AlbeTroll&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![AlbeTroll's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=AlbeTroll&theme=dark)
 
 ## 🌐 Connect with Me
 
@@ -31,9 +31,13 @@ In addition to my passion for coding, I'm also deeply fascinated by astronomy an
 
 ## 🌟 My Skills
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ## 📈 GitHub Trophies
 
