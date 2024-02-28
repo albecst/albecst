@@ -17,7 +17,7 @@ In addition to my passion for coding, I'm also deeply fascinated by astronomy an
 - 🌠 **Astronomy**: I enjoy stargazing and learning about celestial objects, black holes, and the origins of the universe.
 - 🔭 **Physics**: I'm intrigued by quantum mechanics, relativity, and the exploration of the fundamental forces shaping our universe. Some physicists like Albert Einstein, Javier Santaolalla or Stephen Hawking motivate me to keep learning about this.
 
-![Astronomy Animation]([https://media.giphy.com/media/l3vR9JONHUG7WFzv2/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdhMnVjYnpiZ3l4cWJnaDQwb3JjYWNhd3pvYXBxcXp6MWl5djc4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1zp7XeNrzpWo/giphy.gif))
+![Astronomy Animation](https://media.giphy.com/media/l3vR9JONHUG7WFzv2/giphy.gif)
 
 ## 📊 GitHub Analytics
 
