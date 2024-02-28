@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Alberto
 
-![AlbeTroll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbeTroll&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
-
 ## 🚀 About Me
 I'm a passionate developer who loves to explore the world of coding and technology. With a knack for problem-solving, I'm always excited to take on new challenges and learn something new.
 
@@ -20,6 +18,8 @@ In addition to my passion for coding, I'm also deeply fascinated by astronomy an
 ![Astronomy Animation](https://media.giphy.com/media/d1zp7XeNrzpWo/giphy.gif)
 
 ## 📊 GitHub Analytics
+
+![AlbeTroll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbeTroll&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbeTroll&layout=compact&theme=radical)
 
