@@ -1,13 +1,18 @@
 # Hi there! 👋 I'm Alberto
 
 ## 🚀 About Me
-I'm a passionate developer who loves to explore the world of coding and technology. With a knack for problem-solving, I'm always excited to take on new challenges and learn something new.
+
+**I'm a passionate developer** who loves to explore the world of coding and technology. With a knack for problem-solving, **I'm always excited to take on new challenges and learn something new**. I thrive in dynamic environments where I can push my boundaries and grow professionally.
+
+While I'm comfortable working independently, **I truly enjoy collaborating with like-minded individuals who share my enthusiasm for working hard and learning together**. I firmly believe that teamwork fosters creativity and leads to greater achievements.
+
+
 
 - 💻 I'm sufficiently competent in: Python, C++.
 - 🌱 Currently learning: Java.
 - 🌟 Next to learn: JavaScript(React), Fundamentals of Cybersecurity...
 - 🎓 Studying: 1st year of Computer Science at [Universidad Alcalá de Henares].
-- 🔐 My goal is to work in a cybersecurity-related role and contribute to making the digital world safer, because I am a cybersecurity lover, constantly exploring the depths of ethical hacking and security.
+- 🔐 Do I have a long-term goal? Yes, my goal is to work in a cybersecurity-related role and contribute to making the digital world safer, because I am a cybersecurity lover, constantly exploring the depths of ethical hacking and security.
 
 ## 🌌 Astronomy & Physics Enthusiast
 
