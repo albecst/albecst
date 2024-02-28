@@ -6,7 +6,7 @@
 
 While I'm comfortable working independently, **I truly enjoy collaborating with like-minded individuals who share my enthusiasm for working hard and learning together**. I firmly believe that teamwork fosters creativity and leads to greater achievements.
 
-- 💻 I'm sufficiently competent in: Python, C++.
+- 💻 I'm sufficiently competent in: Python, C++ (with a focus on Arduino).
 - 🌱 Currently learning: Java.
 - 🌟 Next to learn: JavaScript(React), Fundamentals of Cybersecurity...
 - 🎓 Studying: 1st year of Computer Science at [Universidad Alcalá de Henares].
@@ -27,7 +27,8 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 
 ## 📊 GitHub Analytics
 
-[![AlbeTroll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbeTroll&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/AlbeTroll)&ensp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbeTroll&layout=compact&theme=radical)](https://github.com/AlbeTroll)
+[![AlbeTroll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbeTroll&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/AlbeTroll)&ensp;&ensp;&ensp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbeTroll&layout=compact&theme=radical)](https://github.com/AlbeTroll)
 
 
 
