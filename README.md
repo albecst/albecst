@@ -26,10 +26,17 @@ In addition to my passion for coding, I'm also deeply fascinated by astronomy an
 ## 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Albetroll_/)](https://www.instagram.com/Albetroll_/)
+
 📧 Email: albertocastilloac05@gmail.com
 
-#### More About Me:
+## 🌟 My Skills
 
-- 🌟 A fervent supporter of open source projects, contributing to the greater tech community.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 📈 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlbeTroll)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
