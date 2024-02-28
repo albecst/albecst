@@ -5,8 +5,8 @@ I'm a passionate developer who loves to explore the world of coding and technolo
 
 - 💻 I'm sufficiently competent in: Python, C++.
 - 🌱 Currently learning: Java.
-- 🌟 I want to learn: JavaScript(React).
-- 🎓 Studying: 1st year of Computer Science at [Universidad Alcalá de Henares]
+- 🌟 Next to learn: JavaScript(React), Fundamentals of Cybersecurity...
+- 🎓 Studying: 1st year of Computer Science at [Universidad Alcalá de Henares].
 - 🔐 My goal is to work in a cybersecurity-related role and contribute to making the digital world safer, because I am a cybersecurity lover, constantly exploring the depths of ethical hacking and security.
 
 ## 🌌 Astronomy & Physics Enthusiast
