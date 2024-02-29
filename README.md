@@ -29,7 +29,7 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 
 ## 📊 GitHub Analytics
 
-[![AlbeTroll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbeTroll&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/AlbeTroll)&ensp;&ensp;&ensp;
+[![AlbeTroll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbeTroll&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/AlbeTroll)&ensp;&ensp;&ensp;
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbeTroll&layout=compact&theme=radical)](https://github.com/AlbeTroll)
 
 
