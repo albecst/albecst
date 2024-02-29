@@ -31,6 +31,7 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 
 [![AlbeTroll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbeTroll&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/AlbeTroll)&ensp;&ensp;&ensp;
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbeTroll&layout=compact&theme=radical)](https://github.com/AlbeTroll)
+![Estadísticas de Desarrollo](https://github.com/AlbeTroll/AlbeTroll/blob/main/github-metrics.svg)
 
 
 
