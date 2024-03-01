@@ -1,6 +1,8 @@
 ---
 
-# What's up! 👋 I'm Alberto 👱🏻 {
+# What's up! 👋 I'm Alberto 👱🏻 {    <p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-lime_green">
+   </p>
 
 ## 🚀 About Me
 
@@ -31,7 +33,6 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 
 [![AlbeTroll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbeTroll&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/AlbeTroll)&ensp;&ensp;&ensp;
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbeTroll&layout=compact&theme=radical)](https://github.com/AlbeTroll)
-![Estadísticas de Desarrollo](https://github.com/AlbeTroll/AlbeTroll/blob/main/github-metrics.svg)
 
 
 
@@ -41,6 +42,10 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 
 📧 Email: albertocastilloac05@gmail.com
 
+   <p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-white">
+   </p>
+   
 # }
 
 ------
