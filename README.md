@@ -12,7 +12,7 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 
 - 💻 I'm sufficiently competent in: Python, C++ (with a focus on Arduino).
 - 🌱 Currently learning: Java.
-- 🌟 Next to learn: JavaScript(React), Fundamentals of Cybersecurity...
+- 🌟 Next to learn: HTML, CSS + CSS Frameworks, Basic JavaScript... (Web development).
 - 🎓 Studying: 1st year of Computer Science at [Universidad Alcalá de Henares].
 - 🔐 Do I have a long-term goal? Yes, my goal is to work in a cybersecurity-related role and contribute to making the digital world safer, because I am a cybersecurity lover, constantly exploring the depths of ethical hacking and security.
 
