@@ -10,9 +10,9 @@
 
 While I'm comfortable working independently, **I truly enjoy collaborating with like-minded individuals who share my enthusiasm for working hard and learning together**. I firmly believe that teamwork fosters creativity and leads to greater achievements.
 
-- 💻 I'm sufficiently competent in: Python, C++ (with a focus on Arduino).
-- 🌱 Currently learning: Java.
-- 🌟 Next to learn: HTML, CSS + CSS Frameworks, Basic JavaScript... (Web development).
+- 💻 I'm sufficiently competent in: Python, Java, C++ (with a focus on Arduino).
+- 🌱 Currently learning: 😴😴😴
+- 🌟 Next to learn: HTML, CSS + CSS Frameworks, Basic JavaScript... (Frontend).
 - 🎓 Studying: 1st year of Computer Science at [Universidad Alcalá de Henares].
 - 🔐 Do I have a long-term goal? Yes, my goal is to work in a cybersecurity-related role and contribute to making the digital world safer, because I am a cybersecurity lover, constantly exploring the depths of ethical hacking and security.
 
@@ -20,14 +20,11 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 
 ### Programming Languages I've Worked with:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-000000?style=for-the-badge)
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-000000?style=for-the-badge) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Tools:
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### Operating Systems:
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Analytics
 
