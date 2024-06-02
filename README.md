@@ -10,7 +10,7 @@
 
 While I'm comfortable working independently, **I truly enjoy collaborating with like-minded individuals who share my enthusiasm for working hard and learning together**. I firmly believe that teamwork fosters creativity and leads to greater achievements.
 
-- 💻 I'm sufficiently competent in: Python, Java, C++ (with a focus on Arduino).
+- 💻 I'm sufficiently competent in: Python, Java, C++ (Arduino).
 - 🌱 Currently learning: HTML
 - 🌟 Next to learn: CSS + CSS Frameworks, Basic JavaScript... (Frontend).
 - 🎓 Studying: 1st year of Computer Science at [Universidad Alcalá de Henares].
