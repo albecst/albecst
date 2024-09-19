@@ -12,7 +12,7 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 
 - 💻 I'm sufficiently competent in: Python, Java, C++ (Arduino).
 - 🌱 Currently learning: C
-- 🌟 Next to learn: ?
+- 🌟 Next to learn: C++, SQL
 - 🎓 Studying: 2nd year of Computer Science at [Universidad Alcalá de Henares].
 - 🔐 Do I have a long-term goal? Yes, my goal is to work in a cybersecurity-related role and contribute to making the digital world safer, because I am a cybersecurity lover, constantly exploring the depths of ethical hacking and security.
 
