@@ -27,6 +27,14 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 [![Alberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albecst&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/albecst)&ensp;&ensp;&ensp;
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albecst&layout=compact&theme=radical)](https://github.com/albecst)
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=albecst&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=albecst&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/albe.cst/)](https://www.instagram.com/albe.cst/)
