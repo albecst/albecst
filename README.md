@@ -10,7 +10,7 @@
 
 While I'm comfortable working independently, **I truly enjoy collaborating with like-minded individuals who share my enthusiasm for working hard and learning together**. I firmly believe that teamwork fosters creativity and leads to greater achievements.
 
-- 💻 I'm sufficiently competent in: Python, Java, C++, C, SQL (Arduino).
+- 💻 I'm sufficiently competent in: Python, Java, C++, C, SQL, Arduino.
 - 🌱 Currently learning: C, C++, SQL
 - 🌟 Next to learn: *
 - 🎓 Studying: 2nd year of Computer Science at [Universidad Alcalá de Henares].
