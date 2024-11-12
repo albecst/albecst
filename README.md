@@ -33,7 +33,7 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=albecst&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=albecst&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 🌐 Connect with Me
 
