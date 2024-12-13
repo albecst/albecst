@@ -11,8 +11,9 @@
 While I'm comfortable working independently, **I truly enjoy collaborating with like-minded individuals who share my enthusiasm for working hard and learning together**. I firmly believe that teamwork fosters creativity and leads to greater achievements.
 
 - 💻 I'm sufficiently competent in: Python, Java, C++, C, SQL, Arduino.
-- 🌱 Currently learning: C, C++, SQL
-- 🌟 Next to learn: *
+- 🌱 Currently learning: C
+- 🌟 Next to learn: ?
+- 💻 Current project: Poker
 - 🎓 Studying: 2nd year of Computer Science at [Universidad Alcalá de Henares].
 - 🔐 Do I have a long-term goal? Yes, my goal is to work in a cybersecurity-related role and contribute to making the digital world safer, because I am a cybersecurity lover, constantly exploring the depths of ethical hacking and security.
 
