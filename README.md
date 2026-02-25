@@ -2,6 +2,8 @@
 
 # What's up! 👋 I'm Alberto 👱🏻 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007396&width=435&lines=Studying+Computer+Science;Interested+in+cybersecurity+🔐)](https://git.io/typing-svg)
+
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-DEVELOPING-blue" alt="Status">
 </p>
@@ -19,6 +21,10 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 - 🎓 Studying: 3rd year of Computer Science at [Universidad Alcalá de Henares](https://www.uah.es/).
 - 🔐 Do I have a long-term goal? Yes, my goal is to work in a cybersecurity-related role and contribute to making the digital world safer, because I am a cybersecurity lover, constantly exploring the depths of ethical hacking and security.
 
+## 💻 Some Projects
+
+[![PyPoker](https://github-readme-stats-fast.vercel.app/api/pin/?username=albecst&repo=PyPoker&theme=radical)](https://github.com/albecst/PyPoker)
+
 ## 🌟 My Skills
 
 ### Programming Languages I've Worked with:
@@ -34,12 +40,15 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 
 ## 📊 GitHub Analytics
 
-[![Alberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albecst&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/albecst)&ensp;&ensp;&ensp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albecst&layout=compact&theme=radical)](https://github.com/albecst)
+[![Alberto's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=albecst&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/albecst)&ensp;&ensp;&ensp;
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=albecst&layout=compact&theme=radical)](https://github.com/albecst)
 
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=albecst&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/albecst)
+## 🐍 My contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albecst/albecst/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albecst/albecst/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/albecst/albecst/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🌐 Connect with Me
 
