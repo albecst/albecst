@@ -21,10 +21,6 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 - 🎓 Studying: 3rd year of Computer Science at [Universidad Alcalá de Henares](https://www.uah.es/).
 - 🔐 Do I have a long-term goal? Yes, my goal is to work in a cybersecurity-related role and contribute to making the digital world safer, because I am a cybersecurity lover, constantly exploring the depths of ethical hacking and security.
 
-## 💻 Some Projects
-
-[![PyPoker](https://github-readme-stats-fast.vercel.app/api/pin/?username=albecst&repo=PyPoker&theme=radical)](https://github.com/albecst/PyPoker)
-
 ## 🌟 My Skills
 
 ### Programming Languages I've Worked with:
@@ -37,6 +33,11 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 💻 Some Projects
+
+[![PyPoker](https://github-readme-stats-fast.vercel.app/api/pin/?username=albecst&repo=PyPoker&theme=radical)](https://github.com/albecst/PyPoker)
+
 
 ## 📊 GitHub Analytics
 
