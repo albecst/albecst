@@ -37,6 +37,9 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 ## 💻 Some Projects
 
 [![PyPoker](https://github-readme-stats-fast.vercel.app/api/pin/?username=albecst&repo=PyPoker&theme=radical)](https://github.com/albecst/PyPoker)
+[![PyPoker](https://github-readme-stats-fast.vercel.app/api/pin/?username=albecst&repo=JavaBNB&theme=radical)](https://github.com/albecst/JavaBNB)
+[![PyPoker](https://github-readme-stats-fast.vercel.app/api/pin/?username=albecst&repo=smart-car&theme=radical)](https://github.com/albecst/smart-car)
+[![PyPoker](https://github-readme-stats-fast.vercel.app/api/pin/?username=albecst&repo=Proyecto-Biotecnologia&theme=radical)](https://github.com/albecst/Proyecto-Biotecnologia)
 
 
 ## 📊 GitHub Analytics
