@@ -18,8 +18,8 @@ While I'm comfortable working independently, **I truly enjoy collaborating with 
 - 🌱 Currently learning: Arduino extension, C, ML 
 - 🌟 Next to learn: ?
 - 💻 Current project: PyPoker
-- 🎓 Studying: 3rd year of Computer Science at [Universidad Alcalá de Henares](https://www.uah.es/).
-- 🔐 Do I have a long-term goal? Yes, my goal is to work in a cybersecurity-related role and contribute to making the digital world safer, because I am a cybersecurity lover, constantly exploring the depths of ethical hacking and security.
+- 🎓 Studying: 4th year of Computer Science at [Universidad Alcalá de Henares](https://www.uah.es/).
+- 🔐 Do I have a long-term goal? Yes, my goal is to work in a cybersecurity-related role and contribute to making the digital world safer, because I would love to be constantly exploring the depths of ethical hacking and security, applying AI.
 
 ## 🌟 My Skills
 
